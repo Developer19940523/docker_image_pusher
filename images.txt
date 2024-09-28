@@ -8,5 +8,7 @@
 #xhofe/alist
 #sbwml/alist
 #xiaoyaliu/alist:hostmode
-mysql:8.0
+#mysql:8.0
+redis
+rabbitmq
 
