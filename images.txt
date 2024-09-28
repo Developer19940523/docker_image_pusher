@@ -7,5 +7,6 @@
 #xiaoyaliu/alist
 #xhofe/alist
 #sbwml/alist
-xiaoyaliu/alist:hostmode
+#xiaoyaliu/alist:hostmode
+mysql:8.0
 
